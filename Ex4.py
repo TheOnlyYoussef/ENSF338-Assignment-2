@@ -15,5 +15,3 @@ def replace(list,orignal,replace):
                 list[i] = replace
             return list
     
-
-print(replace([1,3,5,7,10],10,2))
